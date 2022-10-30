@@ -7,6 +7,7 @@ import * as dat from "lil-gui";
  * Base
  */
 // Debug
+console.log("cenas");
 const gui = new dat.GUI();
 
 // Canvas
